@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FistikKedim
 - 👀 I’m interested in Python and Lua
-- 🌱 I’m currently learning Lua
+- 🌱 I’m currently learning Python
 - ⚡ Fun fact: I'm Just a cat
 
 <!---
